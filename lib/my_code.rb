@@ -55,3 +55,4 @@ end
 def reduce_to_all_true(source_array)
   total = 0
   counter = 0 
+  
